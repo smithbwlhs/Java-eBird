@@ -9,5 +9,8 @@
         <module name="JavaEbird" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaEbird" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
